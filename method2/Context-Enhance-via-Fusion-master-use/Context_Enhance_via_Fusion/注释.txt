@@ -1,0 +1,5 @@
+有两个算法，分别是CFCE.m和HMSD.m
+
+CFCE.m是融合所有的图片，输出在output中
+
+HMSD.m是单独融合图片，输出在output中
